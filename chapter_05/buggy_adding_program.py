@@ -7,3 +7,5 @@ third_number = input()
 
 print(f'The sum is {first_number + second_number + third_number}')
 
+
+

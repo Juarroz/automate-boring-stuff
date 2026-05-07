@@ -15,4 +15,4 @@ while True:
         birthdays[name] = bday
         print(f'Birthday database updated. ')
 
-print()
+print(birthdays)
